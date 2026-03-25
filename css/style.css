@@ -10,6 +10,11 @@ body{
     margin-left: 2rem;
 }
 
+a{
+    text-decoration: none;
+    color: #dec2ff;
+}
+
 nav a{
     margin-right: 8px;
     text-decoration: none;
@@ -27,4 +32,18 @@ a:hover{
 .tabela img{
     width: 290px;
     height: 150px;
+}
+
+.arduino img{
+    width: 290px;
+    height: 290px;
+    border: 6px #dec2ff solid;
+    border-radius: 24px;
+}
+
+.multimetro img{
+    width: 290px;
+    height: 290px;
+    border: 6px #dec2ff solid;
+    border-radius: 24px;
 }
